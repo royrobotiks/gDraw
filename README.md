@@ -2,7 +2,7 @@
 
 gDraw is a 2D G-Code drawing program written in Processing 3. 
 You can make a drawing with it and print this drawing as a line out of plastic with a 3D printer 
-(currently, it supports only Ultimaker G-Code flavor and is only tested on an Ultimaker2).
+(currently, it supports only Ultimaker G-Code flavor and is only tested on an Ultimaker2). Read more about it on my website: http://www.niklasroy.com/articles/194/gdraw-free-software-for-you
 
 How to use:
 
